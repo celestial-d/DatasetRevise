@@ -1,3 +1,3 @@
 # DatasetRevise
-This is a simple python script that trasfers data based on another excel for further data analysis/
-(https://www.kaggle.com/jmainland/national-geographic-smell-survey)
+This is a simple python script that trasfers data based on an [survey](https://www.kaggle.com/jmainland/national-geographic-smell-survey) for further data analysis.
+
